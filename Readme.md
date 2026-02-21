@@ -60,15 +60,16 @@ I believe in **learning by building**, writing clean code, and continuously impr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshj61&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshj61&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adarshj61&theme=tokyonight)
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshj61&theme=tokyo-night)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshj61&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshj61&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
