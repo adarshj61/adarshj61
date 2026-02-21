@@ -86,15 +86,6 @@ An AI-powered web application combining multiple AI tools into a single platform
 - API integrations and scalable structure
 - Focused on usability and performance
 
-### 🛒 ShopMate – E-commerce Platform (In Progress)
-A full-stack e-commerce application.
-- Authentication, product management & cart system
-- Built to understand real-world backend workflows
-
-### 📝 NoteNest – Notes Web App
-A productivity-focused web app to manage personal notes.
-- CRUD operations with clean UI
-- Backend-first mindset for scalability
 
 ---
 
