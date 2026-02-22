@@ -60,7 +60,7 @@ I believe in **learning by building**, writing clean code, and continuously impr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshj61&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshj61)
 
 
 ## 📈 Contribution Activity
@@ -69,7 +69,7 @@ I believe in **learning by building**, writing clean code, and continuously impr
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshj61&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshj61)
 
 ---
 
@@ -98,8 +98,8 @@ An AI-powered web application combining multiple AI tools into a single platform
 ---
 
 ## 📫 Reach Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourprofile  
+- 📧 Email: aj941545@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adarsh-jaiswal-78a266353)  
 
 ---
 
