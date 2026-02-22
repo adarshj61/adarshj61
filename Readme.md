@@ -60,7 +60,7 @@ I believe in **learning by building**, writing clean code, and continuously impr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshj61)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adarshj61&show_icons=true&theme=tokyonight)
 
 
 ## 📈 Contribution Activity
@@ -69,7 +69,7 @@ I believe in **learning by building**, writing clean code, and continuously impr
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshj61)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adarshj61&layout=compact&theme=tokyonight)
 
 ---
 
