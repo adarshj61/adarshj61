@@ -88,7 +88,7 @@ A full-stack password manager that allows users to securely store and manage cre
 - Clean UI with CRUD functionality
 - Focused on real-world backend + frontend integration
 
-### 🤖 Quick AI – AI Utilities Platform
+### 🤖 Quick AI – AI Utilities Platform (PERN)
 An AI-powered web application combining multiple AI tools into a single platform.
 - Modern frontend with real deployment experience
 - API integrations and scalable structure
