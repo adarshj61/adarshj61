@@ -107,7 +107,7 @@ An AI-powered web application combining multiple AI tools into a single platform
 
 ## 📫 Reach Me
 - 📧 Email: aj941545@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adarsh-jaiswal-78a266353)  
+- 💼 LinkedIn: [linkedin.com/in/adarshjaiswal](https://www.linkedin.com/in/adarsh-jaiswal-78a266353)  
 
 ---
 
